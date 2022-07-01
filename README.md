@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Alexey-Sofu
+- 🌱 I’m currently learning web development at SkillBox online school. Here you can see my works
+- 📫 How to reach me: alexeysofu@gmail.com
